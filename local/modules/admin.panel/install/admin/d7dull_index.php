@@ -1,0 +1,1 @@
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/local/modules/admin.panel/admin/d7dull_index.php'; ?>
